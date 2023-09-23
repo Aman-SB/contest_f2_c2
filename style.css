@@ -1,0 +1,74 @@
+h1{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+}
+
+#searchButton{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    size: 100;
+}
+
+#sortAZButton{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    width: 150px;
+    height: 30px;
+}
+
+#sortZAButton{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    width: 150px;
+    height: 30px;
+}
+
+#sortMarksButton{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    width: 150px;
+    height: 30px;
+}
+
+#sortPassingButton{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    width: 150px;
+    height: 30px;
+}
+
+#sortClassButton{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    width: 150px;
+    height: 30px;
+}
+
+#sortGenderButton{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    width: 150px;
+    height: 30px;
+}
+
+table,th,td{
+    border: 1px solid;
+}
+
+table > thead > tr > th {
+    padding: 20px;
+}
+
+table > tbody > td {
+    padding: 20px;
+}
+
+
